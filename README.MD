@@ -17,7 +17,7 @@ thunar-volman thunar-archive-plugin \
 nodejs neofetch ttf-dejavu libreoffice \
 file-roller bat baobab pavucontrol \
 simplescreenrecorder imagemagick \
-xsecurelock xbindkeys
+xsecurelock xbindkeys goaccess
 ```
 
 more from AUR:
