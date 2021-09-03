@@ -120,9 +120,9 @@ create a file /etc/sysctl.d/100-swap.conf
 and follow [https://wiki.manjaro.org/index.php/Swap#Using_a_Swapfile](https://wiki.manjaro.org/index.php/Swap#Using_a_Swapfile) to create a swap file.
 
 
-Greeter background can be changed in /etc/lightdm/slick-greeter.conf
+Login screen background can be changed in /etc/lightdm/slick-greeter.conf
 
-![](https://64.media.tumblr.com/2d53e8f1486b6bb22e74f8e80073be4b/694a6580a1372c75-7d/s128x192/f65f268e51d1bcb7592ae6d31e15de3da7586f65.jpg)
+![Arch5.jpg](https://64.media.tumblr.com/2d53e8f1486b6bb22e74f8e80073be4b/694a6580a1372c75-7d/s1280x1920/b16ea4d525f26004e90331d12e1a72341b1954e7.jpg)
 
 ```
 background=/usr/share/backgrounds/arch-linux-2d/Arch5.jpg
