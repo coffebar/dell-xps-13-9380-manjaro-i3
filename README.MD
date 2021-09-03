@@ -133,3 +133,12 @@ Login screen background can be changed in /etc/lightdm/slick-greeter.conf
 background=/usr/share/backgrounds/arch-linux-2d/Arch5.jpg
 ```
 
+Install syncthing:
+
+```
+sudo pacman -S syncthing
+sudo ufw allow syncthing
+systemctl enable --user syncthing.service
+systemctl start --user syncthing.service
+firefox http://127.0.0.1:8384/
+```
