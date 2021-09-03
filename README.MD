@@ -1,6 +1,11 @@
 # xps 13 9380 manjaro i3
 
-Avoid kernel version 5.10.59, use 5.13.11 or try newer one. Otherwise, there may be serious graphics problems when booting the system. You can use manjaro-settings-manager to install kernels.
+## Here's my setup
+![2021_09_03](https://user-images.githubusercontent.com/3100053/131967232-c4f539ab-12ed-48f6-9e23-8721744fb68f.png)
+
+## Things i do after installing Manjaro (i3wm)
+
+Note: avoid kernel version 5.10.59, use 5.13.11 or try newer one. Otherwise, there may be serious graphics problems when booting the system. You can use manjaro-settings-manager to install kernels.
 
 I prefer to install additional software:
 
