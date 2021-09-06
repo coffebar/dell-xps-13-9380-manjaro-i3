@@ -13,7 +13,7 @@ I prefer to install additional software:
 sudo pacman -S \
 arc-gtk-theme deepin-icon-theme-manjaro \
 adobe-source-code-pro-fonts keepassxc \
-alacritty firefox rofi pulseaudio git i3-gaps \
+alacritty firefox rofi pulseaudio git \
 lxappearance xdotool xautomation wmctrl wget curl \
 vlc gimp virtualbox vim barrier neovim dropbox \
 flameshot fzf rsync xclip xmodmap numlockx \
