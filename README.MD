@@ -25,6 +25,13 @@ simplescreenrecorder imagemagick \
 xsecurelock goaccess openvpn
 ```
 
+multimedia codecs:
+```bash
+sudo pacman -S a52dec faac faad2 flac jasper \
+lame libdca libdv libmad libmpeg2 libtheora \
+libvorbis libxv opus wavpack x264 xvidcore
+```
+
 more from AUR:
 
 ```jsx
