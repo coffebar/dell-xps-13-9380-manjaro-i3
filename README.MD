@@ -22,7 +22,8 @@ thunar-volman thunar-archive-plugin \
 nodejs neofetch ttf-dejavu libreoffice \
 file-roller bat baobab pavucontrol \
 simplescreenrecorder imagemagick \
-xsecurelock goaccess openvpn
+xsecurelock goaccess openvpn \
+libva-intel-driver
 ```
 
 multimedia codecs:
