@@ -23,7 +23,7 @@ nodejs neofetch ttf-dejavu libreoffice \
 file-roller bat baobab pavucontrol \
 simplescreenrecorder imagemagick \
 xsecurelock goaccess openvpn \
-libva-intel-driver
+libva-intel-driver light
 ```
 
 multimedia codecs:
