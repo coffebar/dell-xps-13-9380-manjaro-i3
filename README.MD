@@ -45,7 +45,8 @@ autorandr \
 google-chrome \
 ttf-ms-fonts \
 polybar-git \
-ttf-font-awesome-4
+ttf-font-awesome-4 \
+xfce-polkit
 
 sudo usermod -aG docker $USER
 sudo systemctl enable autorandr.service
