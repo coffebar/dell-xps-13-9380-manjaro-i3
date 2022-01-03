@@ -11,7 +11,7 @@ I prefer to install additional software:
 
 ```bash
 sudo pacman -S \
-arc-gtk-theme deepin-icon-theme-manjaro \
+autotiling-git arc-gtk-theme deepin-icon-theme-manjaro \
 adobe-source-code-pro-fonts keepassxc \
 alacritty firefox rofi pulseaudio git \
 lxappearance xdotool xautomation wmctrl wget curl \
@@ -55,7 +55,7 @@ sudo systemctl enable autorandr.service
 +pip3:
 
 ```bash
-pip install autotiling neovim pynvim ueberzug
+pip install neovim pynvim ueberzug
 ```
 
 +follow manuals:
@@ -88,8 +88,8 @@ sudo systemctl disable avahi-daemon.service
 sudo systemctl disable cups.service
 sudo systemctl disable ModemManager.service
 sudo systemctl disable lvm2-monitor.service
-sudo systemctl disable bluetooth.service
-sudo bluetooth off
+#sudo systemctl disable bluetooth.service
+#sudo bluetooth off
 # enable TRIM
 sudo systemctl enable fstrim.timer
 ```
