@@ -134,6 +134,14 @@ create a file /etc/sysctl.d/100-swap.conf
 and follow [https://wiki.manjaro.org/index.php/Swap#Using_a_Swapfile](https://wiki.manjaro.org/index.php/Swap#Using_a_Swapfile) to create a swap file.
 
 
+[Optional] Change DPI scale factor:
+
+You can edit ~/.Xresources file and change:
+```
+Xft.dpi: 120
+```
+
+
 Login screen background can be changed in /etc/lightdm/slick-greeter.conf
 
 ![Arch5.jpg](https://64.media.tumblr.com/2d53e8f1486b6bb22e74f8e80073be4b/694a6580a1372c75-7d/s1280x1920/b16ea4d525f26004e90331d12e1a72341b1954e7.jpg)
@@ -150,4 +158,9 @@ sudo ufw allow syncthing
 systemctl enable --user syncthing.service
 systemctl start --user syncthing.service
 firefox http://127.0.0.1:8384/
+```
+
+Change grub theme by installing
+```
+sudo pacman -S manjaro-grub-theme-adapta
 ```
