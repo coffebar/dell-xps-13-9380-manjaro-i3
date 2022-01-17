@@ -11,12 +11,15 @@ I prefer to install additional software:
 
 ```bash
 sudo pacman -S \
-autotiling-git arc-gtk-theme deepin-icon-theme-manjaro \
+autotiling-git arc-gtk-theme binutils \
+deepin-icon-theme-manjaro \
 adobe-source-code-pro-fonts keepassxc \
 alacritty firefox rofi pulseaudio git \
-lxappearance xdotool xautomation wmctrl wget curl \
-vlc gimp virtualbox vim barrier neovim dropbox \
-flameshot fzf rsync xclip xmodmap numlockx \
+lxappearance xdotool xautomation \
+wmctrl wget curl xmodmap numlockx \
+vlc gimp virtualbox vim \
+barrier neovim dropbox \
+flameshot fzf rsync xclip \
 xxkb telegram-desktop xfce4-taskmanager \
 thunar-volman thunar-archive-plugin \
 nodejs neofetch ttf-dejavu libreoffice \
