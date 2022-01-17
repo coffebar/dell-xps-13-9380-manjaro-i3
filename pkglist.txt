@@ -21,6 +21,7 @@ barrier
 bash
 bat
 bauh
+bind
 binutils
 bison
 blueman
@@ -153,6 +154,7 @@ manjaro-alsa
 manjaro-application-utility
 manjaro-browser-settings
 manjaro-firmware
+manjaro-grub-theme-adapta
 manjaro-hello
 manjaro-hotfixes
 manjaro-i3-settings
