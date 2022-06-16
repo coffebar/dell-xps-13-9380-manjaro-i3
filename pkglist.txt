@@ -280,6 +280,7 @@ vulkan-intel
 wallpapers-juhraya
 wget
 which
+wireguard-tools
 wmctrl
 wmutils
 wpa_supplicant
